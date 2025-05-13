@@ -26,7 +26,7 @@ Ofrecer una plataforma clara y estética donde los usuarios puedan:
 - Estética coherente con el rubro del bienestar y spa.
 
 ## 🎯 Link del sitio web
-Pendiente
+Fit and Skin https://fit-and-skin.netlify.app/
 
 ## 💬 Créditos
 
